@@ -1,0 +1,63 @@
+.box{
+  background-image: url(/images/bg\ image\ 1\ \(1\).svg);
+  background-repeat: no-repeat;
+  width: 1350px;
+  height: 1000px;
+  background-size: cover;
+}
+
+.hero-title{
+  color:  #FFF;
+  text-align: center;
+  font-size: 70px;
+  line-height: 80px;
+  letter-spacing: 3px;
+  font-weight: 300;
+  height: 30px;
+  margin-top: 240px;
+}
+
+.hero-text{
+  color: #FFF;
+  text-align: center;
+  font-size: 24px;
+  letter-spacing: 2px;
+}
+
+.btn-box{
+  width: 300px;
+  margin: 0 auto;
+  margin-top: 30px;
+}
+
+.hero-btn{
+  width: 260px;
+  height: 60px;
+  border-radius: 4px;
+  background: linear-gradient(195deg, #FFB548 11.27%, #F3AF34 90.4%);
+  border: none;
+  color: #1A1917;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.btn-box-small{
+  height: 28px;
+  width: 2px;
+  background-color: #1A1917;
+  opacity: 0.5;
+}
+
+.img-text{
+  color: var(--Primary-White, #FFF);
+  font-family: 'Open Sans', sans-serif;
+  font-size: 12px;
+  font-weight: 500;
+  line-height: 22px;
+  text-align: center;
+  padding-top: 300px;
+}
